@@ -1,0 +1,7 @@
+project/.idea
+project/venv1
+project/moviebase/local_settings.py
+project/venv1/
+project/moviebase/__pycache__/
+project/movielist/__pycache__/
+project/movielist/migrations/__pycache__/

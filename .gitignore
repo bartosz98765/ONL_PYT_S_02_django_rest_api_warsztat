@@ -9,3 +9,4 @@ project/movielist/tests/__pycache__/
 project/showtimes/__init__.py
 project/showtimes/__pycache__/
 project/showtimes/migrations/__pycache__/
+project/showtimes/tests/__*

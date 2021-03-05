@@ -5,3 +5,7 @@ project/venv1/
 project/moviebase/__pycache__/
 project/movielist/__pycache__/
 project/movielist/migrations/__pycache__/
+project/movielist/tests/__pycache__/
+project/showtimes/__init__.py
+project/showtimes/__pycache__/
+project/showtimes/migrations/__pycache__/
